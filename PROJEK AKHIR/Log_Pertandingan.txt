@@ -1,0 +1,175 @@
+========== LAPORAN DEBAT PBO ==========
+Waktu Pertandingan: 2026/01/15 17:36:00
+Tim PRO    : Dimas | Skor Akhir: 94,00
+Tim KONTRA : Ditra | Skor Akhir: 75,00
+Keputusan Juri: PEMENANG: TIM PRO (Dimas)
+=======================================
+
+========== LAPORAN DEBAT PBO ==========
+Waktu Pertandingan: 2026/01/15 17:59:05
+Tim PRO    : dsfsd | Skor Akhir: 84,00
+Tim KONTRA : gdfg | Skor Akhir: 75,00
+Keputusan Juri: PEMENANG: TIM PRO (dsfsd)
+=======================================
+
+========== LAPORAN DEBAT PBO ==========
+Waktu Pertandingan: 2026/01/16 00:41:33
+Tim PRO    : Tim Alpha | Skor Akhir: 274,05
+Tim KONTRA : Tim Beta | Skor Akhir: 336,35
+Keputusan Juri: PEMENANG: Tim Beta
+=======================================
+
+========== LAPORAN DEBAT PBO ==========
+Waktu Pertandingan: 2026/01/16 00:42:40
+Tim PRO    : Tim dirta | Skor Akhir: 367,51
+Tim KONTRA : Tim dimas | Skor Akhir: 449,15
+Keputusan Juri: PEMENANG: Tim dimas
+=======================================
+
+========== LAPORAN DEBAT PBO ==========
+Waktu Pertandingan: 2026/01/16 01:27:20
+Tim PRO    : Tim Alpha | Skor Akhir: 395,94
+Tim KONTRA : Tim Beta | Skor Akhir: 546,65
+Keputusan Juri: PEMENANG: Tim Beta
+=======================================
+
+========== LAPORAN DEBAT PBO ==========
+Waktu Pertandingan: 2026/01/16 12:46:06
+Tim PRO    : Alpha Team | Skor Akhir: 309,08
+Tim KONTRA : Beta Team | Skor Akhir: 172,48
+Keputusan Juri: PEMENANG: Alpha Team
+=======================================
+
+========== LAPORAN DEBAT PBO ==========
+Waktu Pertandingan: 2026/01/16 12:46:11
+Tim PRO    : Alpha Team | Skor Akhir: 309,08
+Tim KONTRA : Beta Team | Skor Akhir: 248,98
+Keputusan Juri: PEMENANG: Alpha Team
+=======================================
+
+========== LAPORAN DEBAT PBO ==========
+Waktu Pertandingan: 2026/01/16 12:47:05
+Tim PRO    : Alpha Team | Skor Akhir: 353,58
+Tim KONTRA : Beta Team | Skor Akhir: 192,37
+Keputusan Juri: PEMENANG: Alpha Team
+=======================================
+
+========== LAPORAN DEBAT PBO ==========
+Waktu Pertandingan: 2026/01/16 12:47:08
+Tim PRO    : Alpha Team | Skor Akhir: 353,58
+Tim KONTRA : Beta Team | Skor Akhir: 278,05
+Keputusan Juri: PEMENANG: Alpha Team
+=======================================
+
+========== LAPORAN DEBAT PBO ==========
+Waktu Pertandingan: 2026/01/16 12:48:05
+Tim PRO    : Alpha Team | Skor Akhir: 485,04
+Tim KONTRA : Beta Team | Skor Akhir: 236,55
+Keputusan Juri: PEMENANG: Alpha Team
+=======================================
+
+========== LAPORAN DEBAT PBO ==========
+Waktu Pertandingan: 2026/01/16 12:48:08
+Tim PRO    : Alpha Team | Skor Akhir: 485,04
+Tim KONTRA : Beta Team | Skor Akhir: 287,85
+Keputusan Juri: PEMENANG: Alpha Team
+=======================================
+
+========== LAPORAN DEBAT PBO ==========
+Waktu Pertandingan: 2026/01/16 12:49:32
+Tim PRO    : Alpha Team | Skor Akhir: 416,15
+Tim KONTRA : Beta Team | Skor Akhir: 380,69
+Keputusan Juri: PEMENANG: Alpha Team
+=======================================
+
+========== LAPORAN DEBAT PBO ==========
+Waktu Pertandingan: 2026/01/16 12:49:33
+Tim PRO    : Alpha Team | Skor Akhir: 406,65
+Tim KONTRA : Beta Team | Skor Akhir: 465,27
+Keputusan Juri: PEMENANG: Beta Team
+=======================================
+
+========== LAPORAN DEBAT PBO ==========
+Waktu Pertandingan: 2026/01/16 12:50:54
+Tim PRO    : Alpha Team | Skor Akhir: 401,35
+Tim KONTRA : Beta Team | Skor Akhir: 417,07
+Keputusan Juri: PEMENANG: Beta Team
+=======================================
+
+========== LAPORAN DEBAT PBO ==========
+Waktu Pertandingan: 2026/01/16 12:50:56
+Tim PRO    : Alpha Team | Skor Akhir: 401,35
+Tim KONTRA : Beta Team | Skor Akhir: 516,86
+Keputusan Juri: PEMENANG: Beta Team
+=======================================
+
+========== LAPORAN DEBAT PBO ==========
+Waktu Pertandingan: 2026/01/16 12:53:15
+Tim PRO    : Alpha Team | Skor Akhir: 250,43
+Tim KONTRA : Beta Team | Skor Akhir: 227,49
+Keputusan Juri: PEMENANG: Alpha Team
+=======================================
+
+========== LAPORAN DEBAT PBO ==========
+Waktu Pertandingan: 2026/01/16 12:53:18
+Tim PRO    : Alpha Team | Skor Akhir: 240,43
+Tim KONTRA : Beta Team | Skor Akhir: 318,21
+Keputusan Juri: PEMENANG: Beta Team
+=======================================
+
+========== LAPORAN DEBAT PBO ==========
+Waktu Pertandingan: 2026/01/16 13:05:58
+Tim PRO    : Alpha Team | Skor Akhir: 482,86
+Tim KONTRA : Beta Team | Skor Akhir: 396,22
+Keputusan Juri: PEMENANG: Alpha Team
+=======================================
+
+========== LAPORAN DEBAT PBO ==========
+Waktu Pertandingan: 2026/01/16 13:06:01
+Tim PRO    : Alpha Team | Skor Akhir: 473,36
+Tim KONTRA : Beta Team | Skor Akhir: 491,02
+Keputusan Juri: PEMENANG: Beta Team
+=======================================
+
+========== LAPORAN DEBAT PBO ==========
+Waktu Pertandingan: 2026/01/18 00:11:19
+Tim PRO    : Alpha Team | Skor Akhir: 359,27
+Tim KONTRA : Beta Team | Skor Akhir: 387,60
+Keputusan Juri: PEMENANG: Beta Team
+=======================================
+
+========== LAPORAN DEBAT PBO ==========
+Waktu Pertandingan: 2026/01/18 00:11:20
+Tim PRO    : Alpha Team | Skor Akhir: 359,27
+Tim KONTRA : Beta Team | Skor Akhir: 482,40
+Keputusan Juri: PEMENANG: Beta Team
+=======================================
+
+========== LAPORAN DEBAT PBO ==========
+Waktu Pertandingan: 2026/01/18 01:13:36
+Tim PRO    : Alpha Team | Skor Akhir: 405,46
+Tim KONTRA : Beta Team | Skor Akhir: 409,29
+Keputusan Juri: PEMENANG: Beta Team
+=======================================
+
+========== LAPORAN DEBAT PBO ==========
+Waktu Pertandingan: 2026/01/18 01:13:39
+Tim PRO    : Alpha Team | Skor Akhir: 395,96
+Tim KONTRA : Beta Team | Skor Akhir: 498,67
+Keputusan Juri: PEMENANG: Beta Team
+=======================================
+
+========== LAPORAN DEBAT PBO ==========
+Waktu Pertandingan: 2026/01/18 01:19:36
+Tim PRO    : Alpha Team | Skor Akhir: 401,50
+Tim KONTRA : Beta Team | Skor Akhir: 462,26
+Keputusan Juri: PEMENANG: Beta Team
+=======================================
+
+========== LAPORAN DEBAT PBO ==========
+Waktu Pertandingan: 2026/01/18 01:19:38
+Tim PRO    : Alpha Team | Skor Akhir: 401,50
+Tim KONTRA : Beta Team | Skor Akhir: 563,36
+Keputusan Juri: PEMENANG: Beta Team
+=======================================
+
